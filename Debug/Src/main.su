@@ -1,0 +1,10 @@
+main.c:27:6:ScreenSend	16	static
+main.c:32:6:map	8	static
+main.c:42:6:thumbFinger	8	static
+main.c:60:6:indexFinger	8	static
+main.c:78:6:middleFinger	8	static
+main.c:96:6:ringFinger	8	static
+main.c:114:6:littleFinger	8	static
+main.c:193:6:SystemClock_Config	200	static
+main.c:136:5:main	56	static
+main.c:466:6:Error_Handler	0	static
